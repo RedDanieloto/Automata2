@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Q\\source\\repos\\AUTOMATA2\\AUTOMATA2\\AUTOMATA2.csproj",
+      "projectUniqueName": "C:\\Users\\Q\\Desktop\\Automata2\\AUTOMATA2\\AUTOMATA2.csproj",
       "projectName": "AUTOMATA2",
-      "projectPath": "C:\\Users\\Q\\source\\repos\\AUTOMATA2\\AUTOMATA2\\AUTOMATA2.csproj",
+      "projectPath": "C:\\Users\\Q\\Desktop\\Automata2\\AUTOMATA2\\AUTOMATA2.csproj",
       "packagesPath": "C:\\Users\\Q\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Q\\source\\repos\\AUTOMATA2\\AUTOMATA2\\obj\\",
+      "outputPath": "C:\\Users\\Q\\Desktop\\Automata2\\AUTOMATA2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Q\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

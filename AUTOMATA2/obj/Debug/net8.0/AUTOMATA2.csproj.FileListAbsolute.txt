@@ -1,0 +1,15 @@
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\bin\Debug\net8.0\AUTOMATA2.exe
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\bin\Debug\net8.0\AUTOMATA2.deps.json
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\bin\Debug\net8.0\AUTOMATA2.runtimeconfig.json
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\bin\Debug\net8.0\AUTOMATA2.dll
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\bin\Debug\net8.0\AUTOMATA2.pdb
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.AssemblyInfoInputs.cache
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.AssemblyInfo.cs
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.csproj.CoreCompileInputs.cache
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.sourcelink.json
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.dll
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\refint\AUTOMATA2.dll
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.pdb
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\AUTOMATA2.genruntimeconfig.cache
+C:\Users\Q\Desktop\Automata2\AUTOMATA2\obj\Debug\net8.0\ref\AUTOMATA2.dll
